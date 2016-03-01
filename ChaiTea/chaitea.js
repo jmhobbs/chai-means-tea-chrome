@@ -1,3 +1,4 @@
+// Lifted from http://cwestblog.com/2014/03/14/javascript-getting-all-text-nodes/
 function getTextNodesIn(elem, opt_fnFilter) {
   var textNodes = [];
   if (elem) {
